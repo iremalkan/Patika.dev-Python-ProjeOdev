@@ -1,4 +1,4 @@
-# Integer, string ve list içeren liste verisini tek bir liste haline getirmek (flatten)
+# Integer, string ve list içeren liste verisini düzeleştirip tek bir liste haline getirmek (flatten)
 def flatten_input(lst):
     flatten = []
     for e in lst:
